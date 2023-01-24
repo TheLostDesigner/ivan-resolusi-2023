@@ -1,6 +1,5 @@
 YANG HARUS DIPELAJARI
-- Bootstrap
-- Tailwind
+- Belajar Framework Js
 - Dart
 - Vue
 - React
